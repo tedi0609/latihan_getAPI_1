@@ -1,0 +1,10 @@
+.grid-container {
+    display: grid;
+  }
+
+  #pokemon {
+     max-width: 150px;
+     text-align: center;
+     background-color: yellow;
+
+  }
